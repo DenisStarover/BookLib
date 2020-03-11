@@ -1,0 +1,6 @@
+C:\Users\darkd\source\repos\BookLib\BookLib\bin\Debug\BookLib.exe.config
+C:\Users\darkd\source\repos\BookLib\BookLib\bin\Debug\BookLib.exe
+C:\Users\darkd\source\repos\BookLib\BookLib\bin\Debug\BookLib.pdb
+C:\Users\darkd\source\repos\BookLib\BookLib\obj\Debug\BookLib.csprojAssemblyReference.cache
+C:\Users\darkd\source\repos\BookLib\BookLib\obj\Debug\BookLib.exe
+C:\Users\darkd\source\repos\BookLib\BookLib\obj\Debug\BookLib.pdb
